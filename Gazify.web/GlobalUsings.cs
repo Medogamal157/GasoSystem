@@ -1,0 +1,15 @@
+﻿global using AutoMapper;
+global using Gazify.Core.Consts;
+global using Gazify.Core.Models;
+global using Gazify.Core.ViewModels;
+global using Gazify.Data;
+global using Gazify.Filters;
+global using Gazify.Services;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using System.Security.Claims;
+global using UoN.ExpressiveAnnotations.NetCore.Attributes;
